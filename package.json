@@ -1,0 +1,18 @@
+{
+  "name": "yqy-weather",
+  "version": "1.0.2",
+  "description": "weather",
+  "main": "index.js",
+  "bin":{
+    "weather": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YQY",
+  "license": "ISC",
+  "git repository": "git@github.com:silvia-YQY/Weather-npm.git",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
