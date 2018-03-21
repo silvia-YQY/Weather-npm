@@ -1,6 +1,6 @@
 {
   "name": "yqy-weather",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "weather",
   "main": "index.js",
   "bin":{
@@ -10,6 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "YQY",
+  "homepage":"https://github.com/silvia-YQY/Weather-npm",
   "license": "ISC",
   "git repository": "git@github.com:silvia-YQY/Weather-npm.git",
   "dependencies": {
